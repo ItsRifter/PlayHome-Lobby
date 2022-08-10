@@ -1,8 +1,8 @@
 {
-  "Title": "PlayHome Lobby",
+  "Title": "SandCastle Lobby",
   "Type": "map",
-  "Org": "playchill",
-  "Ident": "ph_lobby",
+  "Org": "dropkick",
+  "Ident": "sc_lobby",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
@@ -10,5 +10,7 @@
   "HasCode": false,
   "CodePath": null,
   "RootNamespace": null,
-  "Metadata": {}
+  "Metadata": {
+    "GameSupport": []
+  }
 }
